@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeeyoung)](https://github.com/leechaeeyoung/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeeyoung&show_icons=true&thema=radical)]
 
 💻Tech stack💻
 
