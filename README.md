@@ -6,4 +6,4 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 ------------------------------------------------------------------------------------
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeeyoung&show_icons=true&theme=highcontrast) 
+![leechaeeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeeyoung&show_icons=true&theme=highcontrast) 
